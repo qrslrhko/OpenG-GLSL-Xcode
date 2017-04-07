@@ -15,7 +15,7 @@ Type this commend in Mac terminal to know your version of Xcode.<br />
 - [glm](https://github.com/g-truc/glm): It is a mathematics library for OpenGL and GLSL. I really like it a lot. It helps me handel with vertex buffer object and vertex array object. If you don't know what vertex buffer object or vertex array object is. Don't worry. This is a [website](https://learnopengl.com/#!Getting-started/Hello-Triangle), a very useful website that shows you how to use GLSL.<br />   
 <br />  
 
- #### [Download Cmake](https://cmake.org/download/): Choose `Mac OSX 10.6 or later           cmake-3.8.0-rc4-Darwin-x86_64.dmg  OR  cmake-3.8.0-rc4-Darwin-x86_64.tar.gz` <br />
+ #### [Download Cmake](https://cmake.org/download/): Choose `Mac OSX 10.6 or later           cmake-3.8.0-rc4-Darwin-x86_64.dmg  OR  cmake-3.8.0-rc4-Darwin-x86_64.tar.gz` 
  #### [Download GLEW](http://glew.sourceforge.net/): Download it via github or zip. 
  #### [Download GLFW](http://www.glfw.org/): Choose `Download GLFW 3.2.1`.
  #### [Download Glm](https://github.com/g-truc/glm/releases/tag/0.9.8.4): Choose `glm-0.9.8.4.zip`.
