@@ -212,7 +212,7 @@ Type this commend in Mac terminal to know your version of Xcode.<br />
     }
   ```
  
-- In vertex and fragment shader, we have to declare our version of OepnGL by adding `#version 410 core` in the beginning of file. Here I    use OpenGL 4.1, I type `#version 410 core`.<br />  
+- In vertex and fragment shader, we have to declare our version of OepnGL by adding `#version 410 core` in the beginning of file. Here I    use OpenGL 4.1, I type `#version 410 core`. Check your version in this [Link](https://en.wikipedia.org/wiki/OpenGL_Shading_Language).<br />  
   This is my fragment shader. In new version of OpenGL, `gl_fragcolor` is deprecated. We output the `color` instead of `gl_fragcolor`.<br />  
   
   ```glsl
