@@ -251,6 +251,7 @@ Type this commend in Mac terminal to know your version of Xcode.<br />
   ```
 ### Step 5: Performance.
 
-![triangles](https://cloud.githubusercontent.com/assets/16565587/24740587/bff0e006-1a56-11e7-8247-99e90a8ca8c3.gif)
+  ![triangle](https://cloud.githubusercontent.com/assets/16565587/24784698/314a897a-1b09-11e7-9754-6dae8acc8c4d.gif)
+
 
 If you have nay questions, please let me know. I am glad to help you! :blush:
