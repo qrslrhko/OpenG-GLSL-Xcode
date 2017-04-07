@@ -1,7 +1,7 @@
 # Activate OpenGL and GLSL on Xcode
 
-In this page, I will demonstrate how to activate OpenGL and GLSL on Xcode. <br /> 
-I use Intel Iris pro graphics and OpenGL 4.1 [check your OpenGL version](https://support.apple.com/en-us/HT202823) on Xcode (version 7.2). <br />   
+In this page, I will demonstrate how to activate OpenGL and GLSL in Xcode. <br /> 
+I use Intel Iris pro graphics and OpenGL 4.1 [check your OpenGL version](https://support.apple.com/en-us/HT202823) in Xcode (version 7.2). <br />   
 Type this commend in Mac terminal to know your version of Xcode.<br />   
 ```c
 /usr/bin/xcodebuild -version
